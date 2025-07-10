@@ -1,0 +1,6 @@
+{
+  "title": "zero to Ceph",
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
